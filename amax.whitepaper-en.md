@@ -233,9 +233,9 @@ To embrace the largest crypto ecosystem in the current world, Armonia's first ch
 |---|---|---|
 | Native token | `$AMAX` | Bridged from `AMC` chain |
 | Consensus algorithm | PoSA |  |
-| Virtual machine | EVM | support solidity language for its smart contract development |
+| Virtual machine | EVM | Support solidity language for its smart contract development |
 | Anti-sybil attack | Gas fees, paid in `$AMAX` | `Gas fees = Gas amount x Gas price` |
-| Account model | public key derived addresses | Format: `0x...` |
+| Account model | Public key derived addresses | Format: `0x...` |
 | Block interval | 3 seconds | |
 | TPS | 160+ | Benchmarked with transfer transactions, `v1.0` ｜
 
@@ -336,7 +336,10 @@ After Armonia `v3.0` has been achieved, all development will be driven by the `d
 
 ## Core team
 
-[Armonia to provide]
+A world-class blockchain research and development team with many years of experience in the blockchain industry. With in-depth participation in the research and development of multiple public blockchain projects, the team can quickly refine and integrate new technologies. 
+
+The operation team has in-depth experience in the cultural copyright transaction system, and has also independently developed different e-commerce model under the different business scenarios. The experience equipped the team with ability to better integrate traditional finance with the Armonia ecosystem and innovate. 
+
 
 ## Reference
 - metaverse: https://theconversation.com/the-metaverse-is-money-and-crypto-is-king-why-youll-be-on-a-blockchain-when-youre-virtual-world-hopping-171659
